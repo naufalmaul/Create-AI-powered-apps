@@ -16,4 +16,4 @@
 ## Tech Stack
 - Google Collab 👯‍
 - Jupyter Notebook 👩‍💻
-- Pythom 💬
+- Python 💬
