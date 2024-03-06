@@ -20,7 +20,7 @@ if not os.path.exists(output_path):
 loader = TextLoader('pembukaanUUD1945.txt')
 
 openai_api_key = "API KEY KAMU"
-os.environ["OPENAI_API_KEY"] = "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"
+os.environ["OPENAI_API_KEY"] = "open_api_key"
 
 # mengakses data
 data = loader.load()
