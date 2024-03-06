@@ -9,7 +9,7 @@ os.environ["OPEN_API_KEY"] = "open_api_key"
 # Mendefinisikan model AI
 llm = ChatOpenAI(
     model_name="gpt-3.5-turbo",
-    openai_api_key= "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"
+    openai_api_key= "open_api_key"
 )
 
 # Mendefinisikan PromptTemplate sebagai format prompt untuk input dari user
