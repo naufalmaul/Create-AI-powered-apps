@@ -7,7 +7,7 @@ from langchain_experimental.utilities import PythonREPL
 
 openai_api_key = "API KEY KAMU"
 
-os.environ["OPENAI_API_KEY"] = "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"
+os.environ["OPENAI_API_KEY"] = "open_api_key"
 
 gpt3 = ChatOpenAI(model_name='gpt-3.5-turbo')
 
