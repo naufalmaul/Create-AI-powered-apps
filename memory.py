@@ -9,7 +9,7 @@ import time
 
 # Mengatur API key
 openai_api_key = "API KEY KAMU"  # Ganti dengan API key kamu
-os.environ["OPENAI_API_KEY"] = "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"
+os.environ["OPENAI_API_KEY"] = "open_api_key"
 
 # Mengatur memori percakapan
 # Memori ini akan menyimpan k banyak percakapan
