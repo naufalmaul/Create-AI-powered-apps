@@ -4,7 +4,7 @@ import os
 from langchain_openai import ChatOpenAI
 
 openai_api_key = "API KEY KAMU"
-os.environ["OPEN_API_KEY"] = "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"
+os.environ["OPEN_API_KEY"] = "open_api_key"
 
 # Mendefinisikan model AI
 llm = ChatOpenAI(
